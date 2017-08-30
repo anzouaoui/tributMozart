@@ -1,0 +1,52 @@
+.page {
+    margin-top: 5%;
+    background-color: #97DFF5;
+    margin-bottom: 5%;
+}
+
+#mozart {
+    padding-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+}
+
+.oeuvres {
+    padding-top: 5%;
+}
+
+#titre-oueuvres {
+    text-decoration: underline ;
+}
+
+.sonates {
+    padding-left: 5%;
+}
+
+.sonates h3 {
+    color: #6E99E2;
+    font-weight: 600;
+}
+
+#sonates-listes {
+    font-size: 20px;
+}
+
+.fantaisies {
+    padding-left: 5%;
+}
+
+.fantaisies h3 {
+    color: #6E99E2;
+    font-weight: 600;
+}
+
+#fantaisies-listes {
+    font-size: 20px;
+}
+
+.lien {
+    margin-top: 10%;
+    font-weight: 600;
+    font-size: 20px;
+}
